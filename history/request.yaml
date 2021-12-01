@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SBPS-PC01A-4C-FLORDD103-streamed-flort_d_data_record
-last_request: '2021-10-06T19:07:08.893613Z'
+last_request: '2021-12-01T21:49:37.700402Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-PC01A-4C-FLORDD103-streamed-flort_d_data_record/main/history/response.json
-status: success
+status: pending
