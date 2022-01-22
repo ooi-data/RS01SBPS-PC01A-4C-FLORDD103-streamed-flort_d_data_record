@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-PC01A-4C-FLORDD103-streamed-flort_d_data_record
 data_stream: RS01SBPS-PC01A-4C-FLORDD103-streamed-flort_d_data_record
 end_date: '2022-01-01T01:38:10.991Z'
-last_updated: '2022-01-22T01:14:14.144122Z'
+last_updated: '2022-01-22T02:06:36.652808'
 start_date: '2014-10-02T14:21:11.000Z'
-status: pending
+status: success
